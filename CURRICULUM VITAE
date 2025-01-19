@@ -7,17 +7,6 @@
 </head>
 <body>
 
-    <div class="container">
-        <h1>Currículum Vitae</h1>
-
-        <!-- Información Personal -->
-        <div class="section">
-            <h2>Datos Personales</h2>
-            <p><strong>Nombre:</strong> Ricardo Adolfo Corral Fernández</p>
-            <p><strong>Email:</strong> ricardo@email.com</p>
-            <p><strong>Teléfono:</strong> +123 456 7890</p>
-        </div>
-
         <!-- Imágenes -->
         <div class="section">
             <h2>Imágenes y Enlaces</h2>
@@ -33,6 +22,17 @@
                     </a>
                 </div>
             </div>
+        </div>
+        
+    <div class="container">
+        <h1>Currículum Vitae</h1>
+
+        <!-- Información Personal -->
+        <div class="section">
+            <h2>Datos Personales</h2>
+            <p><strong>Nombre:</strong> Ricardo Adolfo Corral Fernández</p>
+            <p><strong>Email:</strong> ricardo@email.com</p>
+            <p><strong>Teléfono:</strong> +123 456 7890</p>
         </div>
 
         <!-- Experiencia Laboral -->
